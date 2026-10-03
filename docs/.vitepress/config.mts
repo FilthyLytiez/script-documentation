@@ -46,6 +46,8 @@ export default defineConfig({
           script('moneywash', 'Money Wash', false),
           script('ammunation', 'Ammunation', false),
           script('engineswap', 'Engine Swap and Dyno', false),
+          script('recycling', 'Recycle System (Free)', false),
+          script('addcreator', 'Ad Creator (Free)', false),
         ],
       },
       {
