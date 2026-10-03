@@ -1,0 +1,7 @@
+{
+  "name": "filthy-lytiez-docs",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vitepress dev docs --port 5174", "build": "vitepress build docs", "preview": "vitepress preview docs" },
+  "devDependencies": { "vitepress": "^1.6.3" }
+}
