@@ -1,6 +1,6 @@
 # Configuration
 
-Everything you can change lives in `shared/config.lua`.
+Everything you can change lives in `shared/config.lua`. Saved winch points are stored in `shared/winch_custom_trucks.json`, which you can also edit. Everything else is protected, and edits to protected files are lost on update.
 
 ## General
 
