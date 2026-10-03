@@ -5,7 +5,7 @@
 Rope winching for tow trucks. Hook onto a vehicle, wind it in and hear the winch work, with sound that pans and
 fades with distance and muffles inside a closed cabin.
 
-::: info Version 2.2.0
+::: info Version 2.3.0
 Requires `community_bridge`, `ox_lib` and `oxmysql`. No inventory items are needed.
 :::
 

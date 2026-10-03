@@ -4,7 +4,7 @@
 
 A full tow company. Players take roadside call-outs, recover wrecks, chop vehicles and run their own businesses.
 
-::: info Version 5.0.4
+::: info Version 5.1.0
 Requires `community_bridge`, `ox_lib` and `oxmysql`. Everything else is picked up automatically.
 :::
 

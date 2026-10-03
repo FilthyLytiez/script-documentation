@@ -41,9 +41,9 @@ export default defineConfig({
         text: 'Scripts',
         items: [
           script('towscenarios', 'Tow Scenarios'),
-          script('winch', 'Winch System', false),
-          script('pawnshop', 'Pawnshop', false),
-          script('moneywash', 'Money Wash', false),
+          script('winch', 'Winch System'),
+          script('pawnshop', 'Pawnshop'),
+          script('moneywash', 'Money Wash'),
           script('ammunation', 'Ammunation', false),
           script('engineswap', 'Engine Swap and Dyno', false),
           script('recycling', 'Recycle System (Free)', false),

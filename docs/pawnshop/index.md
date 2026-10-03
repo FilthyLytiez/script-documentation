@@ -5,7 +5,7 @@
 A player owned pawnshop. Players buy goods over the counter, owners set prices, and stock is run out to a buyer
 for profit.
 
-::: info Version 1.0.0
+::: info Version 2.1.0
 Requires `community_bridge`, `ox_lib` and `oxmysql`. The default categories use standard inventory items only.
 :::
 

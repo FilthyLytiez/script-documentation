@@ -4,7 +4,7 @@
 
 A player owned laundrette. Dirty money goes in and clean money comes out, minus the owner's cut.
 
-::: info Version 5.0.1
+::: info Version 5.1.0
 Requires `community_bridge`, `ox_lib` and `oxmysql`. Ships one custom item, the wash token.
 :::
 
